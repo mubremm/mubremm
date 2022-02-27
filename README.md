@@ -22,13 +22,13 @@ class Mubrem{
 }
 ```
 
-  # My Code Languages
+  # Bildiğim Diller ↓
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-  # My Github Statistics
+  # Github İstatistiklerim ↓
 <p align="center">
   <a href="https://github.com/mubremm/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubremm&langs_count=10&custom_title=Most+Used+Languages&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
   <a href="https://github.com/mubremm/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mubremm&show_icons=true&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=mubremm%27s+Github+Statistics"/></a>
