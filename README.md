@@ -1,9 +1,9 @@
-# ✨ Selam! Ben Mübrem. ✨.
+# ✨Hi! I'm Mubrem✨.
 
 ![mubrem profile](https://komarev.com/ghpvc/?username=mubremm&color=blueviolet)
 
-# Ben Kimim?
-Merhaba, ben Mübrem ve 18 yaşındayım. Yaklaşık 3 yıldır yazılım ile uğraşıyorum. Bilgisayar oyunlarını ve kod yazmayı seviyorum. 
+# About Me
+Hello! I have been working with Mubrem and Turkiye for 3 years. I love playing video games and writing code.
 
 ## 🌐 Techs & Langs🌐
 #### Langs
@@ -11,8 +11,8 @@ Merhaba, ben Mübrem ve 18 yaşındayım. Yaklaşık 3 yıldır yazılım ile u�
 #### Frameworks & Database
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Sosyal Medya Bilgilerim 
-Bana ulaşmak istersen Discord'a uğrayabilirsin.
+### Social
+If you want talk to me, you can contact me on discord.
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/937421302954864693)
 
