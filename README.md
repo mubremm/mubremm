@@ -1,7 +1,7 @@
 # ✨Hi! I'm Mubrem✨.
 
 ![mubrem profile](https://komarev.com/ghpvc/?username=mubremm&color=blueviolet)
-[![GitHub mubremm](https://img.shields.io/github/followers/mubremm?label=follow&style=social)](https://github.com/mubremm)&nbsp;
+[![GitHub mubremm](https://img.shields.io/github/followers/mubremm?label=follower&style=social)](https://github.com/mubremm)&nbsp;
 
 # About Me
 Hello! I have been working with Mubrem and Turkiye for 3 years. I love playing video games and writing code.
