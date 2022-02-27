@@ -1,32 +1,20 @@
-# Mubrem KARA 🔇
-![Profile Count](https://komarev.com/ghpvc/?username=mubremm&color=red)&nbsp;
-[![GitHub Richârd](https://img.shields.io/github/followers/mubremm?label=follow&style=social)](https://github.com/mubremm)&nbsp;
-<a href="https://discord.com/users/937421302954864693"><img alt="Discord" src="https://img.shields.io/badge/@mubrém-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
-<a href="https://instagram.com/mubremxrd"><img src="https://img.shields.io/badge/@mubremxrd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-```js
-class Mubrem{
-  constructor(options) {
-    this.name = "Mubrem",
-    this.surname = "Kara",
-    this.hometown = "Turkey",
-    this.birthday = "05",
-    this.birthmonth = "April",
-    this.birthyear = "2003",
-    this.age = "18",
-    this.height = "1.75",
-    this.weight = "75",
-    this.type = "human",
-    this.job = "developer",
-    this.sex = "male"
-  }
-}
-```
+# ✨ Selam! Ben Mübrem. ✨.
 
-  # Bildiğim Diller ↓
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![mubrem profile](https://komarev.com/ghpvc/?username=mubremm&color=blueviolet)
 
+# Ben Kimim?
+Merhaba, ben Mübrem ve 18 yaşındayım. Yaklaşık 3 yıldır yazılım ile uğraşıyorum. Bilgisayar oyunlarını ve kod yazmayı seviyorum. 
+
+## 🌐 Techs & Langs🌐
+#### Langs
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Frameworks & Database
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Sosyal Medya Bilgilerim 
+Bana ulaşmak istersen Discord'a uğrayabilirsin.
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/937421302954864693)
 
   # Github İstatistiklerim ↓
 <p align="center">
