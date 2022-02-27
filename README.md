@@ -17,7 +17,7 @@ If you want talk to me, you can contact me on discord.
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/937421302954864693)
 
-  # Github İstatistiklerim ↓
+  # My Github Statistics
 <p align="center">
   <a href="https://github.com/mubremm/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubremm&langs_count=10&custom_title=Most+Used+Languages&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
   <a href="https://github.com/mubremm/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mubremm&show_icons=true&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=mubremm%27s+Github+Statistics"/></a>
