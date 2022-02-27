@@ -4,7 +4,7 @@
 [![GitHub mubremm](https://img.shields.io/github/followers/mubremm?label=follower&style=social)](https://github.com/mubremm)&nbsp;
 
 # About Me
-Hello! I have been working with Mubrem and Turkiye for 3 years. I love playing video games and writing code.
+Hello! i am Mubrem and I live in Turkey. i have been drinking with the software for 3 years. I like to play games and write code.
 
 ## 🌐 Techs & Langs🌐
 #### Langs
