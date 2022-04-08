@@ -8,7 +8,7 @@ Hello! i am Mubrem and I live in Turkey. i have been drinking with the software 
 
 <div align="center">
    <a href="https://discord.com/users/937421302954864693" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/937421302954864693?bg=111111">
+      <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/937421302954864693)](https://discord.com/users/937421302954864693)?bg=111111">
    </a>
 </div>
 
