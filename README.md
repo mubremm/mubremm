@@ -7,8 +7,8 @@
 Hello! i am Mubrem and I live in Turkey. i have been drinking with the software for 3 years. I like to play games and write code.
 
 <div align="center">
-   <a href="https://discord.com/users/134372157496098816" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/134372157496098816?bg=111111">
+   <a href="https://discord.com/users/937421302954864693" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/937421302954864693?bg=111111">
    </a>
 </div>
 
